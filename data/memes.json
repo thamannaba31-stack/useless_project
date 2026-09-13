@@ -1,0 +1,52 @@
+[
+  {
+    "id": "meme01",
+    "file": "/memes/meme01.jpg",
+    "tags": ["confused", "what", "surprised", "bewildered", "lost"],
+    "description": "Confused reaction — എന്താ ഇത്?",
+    "fallback": true
+  },
+  {
+    "id": "meme02",
+    "file": "/memes/meme02.jpg",
+    "tags": ["angry", "frustrated", "annoyed", "furious", "mad"],
+    "description": "Angry frustrated reaction — ഇതൊക്കെ സഹിക്കണോ?"
+  },
+  {
+    "id": "meme03",
+    "file": "/memes/meme03.jpg",
+    "tags": ["laughing", "happy", "funny", "amused", "joy", "hilarious"],
+    "description": "Laughing happy reaction — ചിരിച്ചു ചത്തു!"
+  },
+  {
+    "id": "meme04",
+    "file": "/memes/meme04.jpg",
+    "tags": ["shocked", "surprised", "disbelief", "omg", "astonished"],
+    "description": "Shocked surprised reaction — അയ്യോ!"
+  },
+  {
+    "id": "meme05",
+    "file": "/memes/meme05.jpg",
+    "tags": ["tired", "exhausted", "sleepy", "done", "bored", "drained"],
+    "description": "Tired exhausted reaction — ഇനി എന്നെക്കൊണ്ട് വയ്യ"
+  },
+  {
+    "id": "meme06",
+    "file": "/memes/meme06.jpg",
+    "tags": ["sad", "crying", "upset", "emotional", "heartbroken", "devastated"],
+    "description": "Sad crying reaction — ഇത് ഞാൻ പ്രതീക്ഷിച്ചില്ല"
+  },
+  {
+    "id": "meme07",
+    "file": "/memes/meme07.jpg",
+    "tags": ["smug", "confident", "proud", "satisfied", "winner", "sly"],
+    "description": "Smug confident reaction — ഞാൻ പറഞ്ഞില്ലേ?"
+  },
+  {
+    "id": "meme08",
+    "file": "/memes/meme08.jpg",
+    "tags": ["awkward", "embarrassed", "uncomfortable", "nervous", "shy", "weird"],
+    "description": "Awkward embarrassed reaction",
+    "fallback": true
+  }
+]
